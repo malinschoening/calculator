@@ -1,0 +1,11 @@
+TESTDOKUMENTATION
+
+- Tests for each calculation method
+- Test for throwing error when trying to put NaN in the input
+- Test that the answers are given in integers
+- Test that it returns NaN when trying to divide by zero
+- Tests for the buttons and input fields to show at the site
+
+E2E Tests
+- Test for each calculation method
+- Test for reset button

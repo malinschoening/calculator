@@ -2,7 +2,7 @@ import { describe, it, expect } from 'vitest';
 import { multiply } from '../../calculations';
 
 describe('multiply', () => {
-    it('Should return the multiplied sum', () => {
+    it('Should return the product', () => {
         const x = 2;
         const y = 5;
         const sum = multiply(x, y)

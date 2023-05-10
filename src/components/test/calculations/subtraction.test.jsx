@@ -2,7 +2,7 @@ import { describe, it, expect } from 'vitest';
 import { subtraction } from '../../calculations';
 
 describe('subtraction', () => {
-    it('Should return the differ', () => {
+    it('Should return the difference', () => {
         const x = 4;
         const y = 1;
         const sum = subtraction(x, y)
